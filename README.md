@@ -2,9 +2,9 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 <!--letras-->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&pause=1000&color=F76F0C&center=true&vCenter=true&width=435&lines=I'm+juan" alt="Typing SVG">
-</p>
+<h2 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&width=450&lines=Welcome+to+my+Github+Page!;I'm+Juan.;I'm+a+student+in+Bolivia.;I'm+always+expanding+my+tech+stack!)](https://git.io/typing-svg)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -19,3 +19,7 @@
 <!--img align="right" alt="GIF" height="80" width="auto" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /-->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h2 align="center">
+  
+  ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
