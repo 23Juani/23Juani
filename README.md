@@ -35,96 +35,21 @@
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--Trophies Section-->   
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/23Juani">
-    <img src="https://github-profile-trophy.vercel.app/?username=23Juani&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies de 23Juani">
-  </a>
-</p>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/23Juani">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=23Juani&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/23Juani">
-          <img align="center" src="https://streak-stats.demolab.com?user=23Juani&theme=nightowl" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  </table>
-  <table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/23Juani/cryptos">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=23Juani&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/23Juani">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=23Juani&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center">📈 My GitHub Stats</h2>  
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=23Juani&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+  <picture >
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=23Juani&layout=compact&langs_count=8&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=23Juani&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8" />
+</picture>
 </div>
 
-<h2 align="center">
-  
-  ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
-
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<h2 align="center">🎵 Mᴜsɪᴄ ɪs ᴛʜᴇ Lᴀɴɢᴜᴀɢᴇ ᴏғ Tʜᴇ Sᴏᴜʟ 🎵</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-
-<h2 align="center">
-  
- <!--  [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/playlist/0VePSxsZtEEy6Ty895BQO2)-->
-   [![Spotify](https://novatorem.visualbean.vercel.app/api/spotify)](https://open.spotify.com/user/31z76cwhmfdr6m6wkd4wspyrkcha)
-
-<!--para compartir mi playlist-->
-  <!-- [![Mi Playlist](https://img.shields.io/badge/Spotify-🎵%20Mi%20Playlist-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/0VePSxsZtEEy6Ty895BQO2)-->
-
-<!--ENDS_HERE_QUOTE_CARD-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
