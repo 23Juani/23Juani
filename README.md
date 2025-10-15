@@ -13,7 +13,7 @@
 <img align="right" width="40%" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
 <!-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).-->
-<!-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.-->
+<!-- 💻 Visit my [Portfolio](https://portfolio-juani-rho.vercel.app/) for more details about me.-->
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
