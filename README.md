@@ -12,18 +12,18 @@
 <!--*Digital Craftsman (Developer / Programmer)*-->
 <img align="right" width="40%" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 
-<!-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).-->
+<!-- 🏙 A lifetime insider and Mentor at [Exercism](https://portfolio-juani-rho.vercel.app/).-->
 <!-- 💻 Visit my [Portfolio](https://portfolio-juani-rho.vercel.app/) for more details about me.-->
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
+- 💻 Visit my [Portfolio](https://portfolio-juani-rho.vercel.app/) for more details about me.
 - ✨ Student of life :)
 - 🌱 I’m currently learning Devops
 - 💬 Ask me about JavaScript, Python, PHP, SQL and NOSQL
-- 📄 Know about my experiences [my experiences](https://github.com/23Juani)
+- 📄 Know about my experiences my experiences
 - 💁‍♂️ Tech Community Volunteer
 - ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://github.com/23Juani) for more details about me.
 - ⚡ Fun fact **I think I'm funny**
 <!--End Intro-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
