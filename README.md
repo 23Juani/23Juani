@@ -36,20 +36,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h2 align="center">📈 My GitHub Stats</h2>  
-<div align="center">
-  <picture >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=23Juani&layout=compact&langs_count=8&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=23Juani&layout=compact&langs_count=8&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8" />
-</picture>
-</div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!--img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"-->
 <!--Contact Section--> 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
